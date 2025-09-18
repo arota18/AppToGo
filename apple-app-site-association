@@ -3,7 +3,12 @@
         "apps": [],
         "details": [
             {
-                "appID": "WY86PN4Q7L.it.SI.AppToGo"
+                "appID": "WY86PN4Q7L.it.SI.AppToGo",
+                "components": [
+                    {
+                        "/": "/AppToGo/*"
+                    }
+                ]
             }
         ]
     }
