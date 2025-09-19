@@ -5,7 +5,8 @@
                 "appID": "WY86PN4Q7L.it.SI.AppToGo",
                 "components": [
                     {
-                        "/": "*"
+                        "/": "/verify",
+                        "?": "*"
                     }
                 ],
                 "defaults": { "caseSensitive": false }
